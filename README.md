@@ -1,0 +1,2 @@
+# GLOBAL_ROAD_ACCIDENT_ANALYSIS-Understanding_Patterns_Identifying_Risks_Saving_Lives
+Global Road Accident Analysis uses Microsoft Power BI to explore accident patterns across countries, periods, driver age groups, crash categories and contributing factors. The project identifies key risks, examines road safety trends and provides data-driven insights to support preventive strategies and reduce accidents, injuries and fatalities.
